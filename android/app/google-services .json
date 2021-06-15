@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "241262965350",
+    "project_id": "chat-application-8965b",
+    "storage_bucket": "chat-application-8965b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241262965350:android:8c6e3d5f05119cc64ab3a7",
+        "android_client_info": {
+          "package_name": "com.ermi.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241262965350-262f4j9rdhmkqjtka6ka13mac4o4tmts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVAsCC03-smfBn9xkLjVilPVJQiSjHpPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241262965350-262f4j9rdhmkqjtka6ka13mac4o4tmts.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "241262965350-tp20s6pm9annespqdbkeconfcgideulj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ermi.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
